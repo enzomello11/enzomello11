@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello, I'm Enzo Mello  
 
-<!--
-**enzomello11/enzomello11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
+🇧🇷 19-year-old Brazilian | 🎓 Computer Science student | 💬 Advanced English  
 
-Here are some ideas to get you started:
+Currently working as an **intern at Senac DN**.  
+I'm studying **DevOps**, but I’m also passionate about **software development** and **cybersecurity**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Skills & Interests
+- 🐧 DevOps & Cloud Fundamentals  
+- 💻 Software Development (C, JavaScript, Python)  
+- 🔐 Cybersecurity & Ethical Hacking Basics  
+- 🌐 Web Technologies  
+
+---
+
+### 🎯 Goals
+- Keep improving my DevOps knowledge  
+- Build strong foundations in backend and security  
+- Contribute to open-source projects  
+
+---
+
+### 🌍 Languages
+- 🇧🇷 **Portuguese** — Native  
+- 🇺🇸 **English** — Advanced  
+
+---
+
+### 💬 Português
+Olá! Sou o **Enzo Mello**, tenho **19 anos**, sou **brasileiro** e curso **Ciência da Computação**.  
+Atualmente, faço **estágio no Senac DN** e estou estudando **DevOps**, com grande interesse em **desenvolvimento** e **segurança da informação**.  
+
+---
+
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
