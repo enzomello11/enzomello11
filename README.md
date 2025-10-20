@@ -10,7 +10,7 @@ I'm studying **DevOps**, but I’m also passionate about **software development*
 
 ### 💻 Skills & Interests
 - 🐧 DevOps & Cloud Fundamentals  
-- 💻 Software Development (C, JavaScript, Python)  
+- 💻 Software Development (C#, JavaScript, Python)  
 - 🔐 Cybersecurity & Ethical Hacking Basics  
 - 🌐 Web Technologies  
 
