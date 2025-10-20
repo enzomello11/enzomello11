@@ -4,7 +4,7 @@
 🇧🇷 19-year-old Brazilian | 🎓 Computer Science student | 💬 Advanced English  
 
 Currently working as an **intern at Senac DN**.  
-I'm studying **DevOps**, but I’m also passionate about **software development** and **cybersecurity**.  
+I'm studying **DevOps & Cloud**, but I’m also passionate about **software development** and **cybersecurity**.  
 
 ---
 
