@@ -1,37 +1,35 @@
-# 👋 Hello, I'm Enzo Mello  
-
-### 🧠 About Me
+🧠 **About Me**  
 🇧🇷 19-year-old Brazilian | 🎓 Computer Science student | 💬 Advanced English  
 
-Currently working as an **intern at Senac DN**.  
-I'm studying **DevOps & Cloud**, but I’m also passionate about **software development** and **cybersecurity**.  
+Currently working as an intern at **Senac DN**.  
+I'm studying **Artificial Intelligence**, and I'm also passionate about software development and cybersecurity.
 
 ---
 
-### 💻 Skills & Interests
-- 🐧 DevOps & Cloud Fundamentals  
-- 💻 Software Development (C#, JavaScript, Python)  
-- 🔐 Cybersecurity & Ethical Hacking Basics  
-- 🌐 Web Technologies  
+💻 **Skills & Interests**  
+🤖 AI Fundamentals & Machine Learning Basics  
+💻 Software Development (C#, JavaScript, Python)  
+🔐 Cybersecurity & Ethical Hacking Basics  
+🌐 Web Technologies  
 
 ---
 
-### 🎯 Goals
-- Keep improving my DevOps knowledge  
-- Build strong foundations in backend and security  
-- Contribute to open-source projects  
+🎯 **Goals**  
+Deepen my knowledge in Artificial Intelligence  
+Build strong foundations in backend and security  
+Contribute to open-source AI projects  
 
 ---
 
-### 🌍 Languages
-- 🇧🇷 **Portuguese** — Native  
-- 🇺🇸 **English** — Advanced  
+🌍 **Languages**  
+🇧🇷 Portuguese — Native  
+🇺🇸 English — Advanced  
 
 ---
 
-### 💬 Português
-Olá! Sou o **Enzo Mello**, tenho **19 anos**, sou **brasileiro** e curso **Ciência da Computação**.  
-Atualmente, faço **estágio no Senac DN** e estou estudando **DevOps**, com grande interesse em **desenvolvimento** e **segurança da informação**.  
+💬 **Português**  
+Olá! Sou o Enzo Mello, tenho 19 anos, sou brasileiro e curso Ciência da Computação.  
+Atualmente, faço estágio no Senac DN e estou estudando **Inteligência Artificial**, com grande interesse em desenvolvimento e segurança da informação.
 
 ---
 
